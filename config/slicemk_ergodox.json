@@ -522,7 +522,7 @@
 					"Behavior": "\u0026kp",
 					"Notes": "",
 					"Args": [
-						"K_VOLUME_DOWN"
+						"C_VOLUME_DOWN"
 					]
 				},
 				{
@@ -530,7 +530,7 @@
 					"Behavior": "\u0026kp",
 					"Notes": "",
 					"Args": [
-						"K_VOLUME_UP"
+						"M_VOLUME_UP"
 					]
 				},
 				{
@@ -571,7 +571,7 @@
 					"Behavior": "\u0026kp",
 					"Notes": "",
 					"Args": [
-						"K_MUTE"
+						"M_MUTE"
 					]
 				},
 				{
